@@ -1,8 +1,8 @@
 # Front-End_Developer_Test
 Front-End_Test
 
-#Challenging Test by company for
-Front-End Developer Test
+#Technical Test by company for
+Front-End Developer Position.
 
 #Languages : HTML, JavaScript, CSS
 and Mustache.js
